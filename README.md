@@ -1,5 +1,7 @@
 # llm-anthropic
 
+This is a personal fork of [llm-anthropic](https://github.com/simonw/llm-anthropic) adding a default.nix file so I can install this plugin using [nix](https://nixos.org/). -JL
+
 [![PyPI](https://img.shields.io/pypi/v/llm-anthropic.svg)](https://pypi.org/project/llm-anthropic/)
 [![Changelog](https://img.shields.io/github/v/release/simonw/llm-anthropic?include_prereleases&label=changelog)](https://github.com/simonw/llm-anthropic/releases)
 [![Tests](https://github.com/simonw/llm-anthropic/actions/workflows/test.yml/badge.svg)](https://github.com/simonw/llm-anthropic/actions/workflows/test.yml)

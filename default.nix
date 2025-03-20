@@ -1,10 +1,9 @@
 { lib
-, buildPythonPackage
 , fetchFromGitHub
 , python312Packages
 }:
 
-buildPythonPackage rec {
+python312Packages.buildPythonPackage rec {
   pname = "llm-anthropic";
   version = "0.15.1";
   format = "pyproject";
